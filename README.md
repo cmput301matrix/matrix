@@ -1,1 +1,12 @@
-CCID: zazam1
+# CMPUT301 Matrix
+
+## Member
+
+| Student Name  | CCID     |
+| ------------- | -------- |
+| Taocheng Wang | taocheng |
+| Youhao Zhao   | youhao   |
+| Zoha Azam     | zazam1   |
+|               |          |
+|               |          |
+|               |          |
